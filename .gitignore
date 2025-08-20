@@ -1,0 +1,15 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore logs and environment files
+*.log
+.env
+
+# Ignore model weights and database files
+*.pt
+*.sqlite3
+
+# Ignore VSCode and workspace configs
+.vscode/
+*.code-workspace
