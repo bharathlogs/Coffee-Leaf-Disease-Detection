@@ -99,20 +99,20 @@ def main(theme_colors):
         <hr style="margin-top: -10px; border: 1px solid {primary_color};">
         <div class="grid-container">
             <div class="grid-item">
-                <img src="./app/static/images/team/nico.png">
-                <p class="title">NICKO</p>
+                <img src="./app/static/images/team/">
+                <p class="title">Prof.Dipali Sinha</p>
             </div>
             <div class="grid-item">
-                <img src="./app/static/images/team/kurt.jpg">
-                <p class="title">KURT</p>
+                <img src="./app/static/images/team/">
+                <p class="title">Bharath</p>
             </div>
             <div class="grid-item">
-                <img src="./app/static/images/team/franco.png">
-                <p class="title">FRANCO</p>
+                <img src="./app/static/images/team/">
+                <p class="title">Prince</p>
             </div>
             <div class="grid-item">
-                <img src="./app/static/images/team/marvin.png">
-                <p class="title">MARVIN</p>
+                <img src="./app/static/images/team/">
+                <p class="title">Charu</p>
             </div>
         </div>
     </div>

@@ -90,10 +90,6 @@ def render_instructions(
         )
 
     st.markdown(note_banner(primary_color), unsafe_allow_html=True)
-    st.warning(
-        "Our model is currently optimized to detect diseases only in coffee leaves.",
-        icon=":material/info:",
-    )
     st.markdown("<div style='height: 20px;'></div>", unsafe_allow_html=True)
 
     with stylable_container(

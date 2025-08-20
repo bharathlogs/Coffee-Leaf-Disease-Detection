@@ -2,9 +2,12 @@
 enableStaticServing = true
 
 [theme]
-primaryColor = "#41B3A2"
-backgroundColor = "#fdfdfe"
-secondaryBackgroundColor = "#ffffff"
+base="dark"
+primaryColor="#0E76A8"               # You can customize this
+backgroundColor="#0E1117"            # Dark background
+secondaryBackgroundColor="#262730"  # Darker sidebar
+textColor="#FAFAFA"                  # Light text
+
 
 [client]
 toolbarMode = "minimal"

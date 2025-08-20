@@ -5,24 +5,25 @@ from components import detection, dataset, disease_tracking, team
 
 # Setting page layout
 st.set_page_config(
-    page_title="BrewGuard", page_icon="🍃", layout="wide", initial_sidebar_state="auto"
+    page_title="Coffee_leaf_disease_detection", page_icon="🍃", layout="wide", initial_sidebar_state="auto"
 )
 
 # Define color schemes
 THEME_COLORS = {
+    
+    "DARK": {
+        "primaryColor": "#0E76A8",
+        "backgroundColor": "#111827",
+        "secondaryBackgroundColor": "#141b2a",
+        "textColor": "#ffffff",
+        "logo": "static/images/logo_dark.png",
+    },
     "LIGHT": {
         "primaryColor": "#41B3A2",
         "backgroundColor": "#fcfcfc",
         "secondaryBackgroundColor": "#ffffff",
         "textColor": "#000000",
         "logo": "static/images/logo_light.png",
-    },
-    "DARK": {
-        "primaryColor": "#00fecd",
-        "backgroundColor": "#111827",
-        "secondaryBackgroundColor": "#141b2a",
-        "textColor": "#ffffff",
-        "logo": "static/images/logo_dark.png",
     },
 }
 
