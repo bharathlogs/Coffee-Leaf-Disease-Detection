@@ -1,6 +1,6 @@
 streamlit==1.33.0
 streamlit-extras==0.2.7
-streamlit-option-menu
+streamlit-option-menu==0.3.6
 streamlit-antd-components==0.1.6
 ultralytics==8.0.196
 seaborn==0.13.2
