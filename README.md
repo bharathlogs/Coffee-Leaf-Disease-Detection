@@ -129,7 +129,7 @@ The app includes **four disease checkpoints and one leaf-variety checkpoint**. E
 
 The interface normalizes some label spellings, including `leaf_rust` to `rust` and `sooty-mold` to `sooty mold`.
 
-`cleaf.pt`, `spots.pt`, and `yolo12n.pt` were restored from [FTsune/kape](https://github.com/FTsune/kape) at a pinned commit. Their downloaded Git blob hashes were verified. See [`weights/SOURCES.md`](weights/SOURCES.md) for provenance, SHA-256 checksums, and third-party licensing notes. The weights were not retrained or converted for this app.
+All five checkpoint files are included in [`weights/`](weights/). See [`weights/SOURCES.md`](weights/SOURCES.md) for provenance, SHA-256 checksums, and third-party licensing notes. The weights were not retrained or converted for this app.
 
 ## How detection works
 
@@ -271,7 +271,7 @@ These are functional and inference smoke tests. They do not measure accuracy, di
 
 **Bharath · Prince**
 
-Thanks to [FTsune/kape](https://github.com/FTsune/kape) for the restored model weights. The app uses Streamlit, Ultralytics, PyTorch, OpenCV, Pillow, NumPy, pandas, and Plotly, with optional Google API clients.
+The app uses Streamlit, Ultralytics, PyTorch, OpenCV, Pillow, NumPy, pandas, and Plotly, with optional Google API clients.
 
 ## License
 
