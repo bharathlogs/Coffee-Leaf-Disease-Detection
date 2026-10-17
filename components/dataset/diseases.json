@@ -1,0 +1,78 @@
+[
+    {
+    "id": "Image 1",
+    "title": "Abiotic Disorder",
+    "name2": "Abiotic Disorder",
+    "thumbnail": "static/images/diseases/abiotic-icon.png",
+    "image": "static/images/diseases/abiotic.jpg",
+    "description": "Abiotic disorders in coffee plants result from non-living environmental factors such as drought, excessive heat, salinity, and nutrient imbalances. These stresses can disrupt plant physiology, leading to symptoms like leaf scorch, wilting, and reduced growth.",
+    "prevention": [
+      "Monitor and manage soil moisture levels to prevent drought stress",
+      "Provide shade to protect plants from excessive heat",
+      "Conduct soil tests to ensure balanced nutrient availability"
+    ],
+    "solution": [
+      "Adjust irrigation schedules to maintain optimal soil moisture",
+      "Amend soils with appropriate nutrients based on deficiency symptoms",
+      "Implement mulching and shading techniques to moderate soil temperature"
+    ],
+    "link": "https://www.mdpi.com/2077-0472/15/1/9" 
+    },
+    {
+      "id": "Image 2",
+      "title": "Cercospora",
+      "name2": "Cercospora coffeicola",
+      "thumbnail": "static/images/diseases/cercospora-icon.png",
+      "image": "static/images/diseases/cercospora.jpg",
+      "description": "Cercospora leaf spot, also known as Iron Spot, is caused by the fungal pathogen Cercospora coffeicola. It commonly affects coffee plants in areas with high moisture and rainfall, particularly those under stress. Symptoms include brown eye-spots with a slight yellow halo on leaves and brown, sunken, oval blotches with a purplish halo on cherries. Young fruits may ripen prematurely.",
+      "prevention": [
+        "Implement proper irrigation practices to avoid excessive moisture",
+        "Ensure adequate plant nutrition to reduce stress",
+        "Prune to improve air circulation within the canopy"
+      ],
+      "solution": [
+        "Remove and destroy infected leaves and berries",
+        "Apply appropriate fungicides as recommended for coffee plants",
+        "Maintain overall plant health to enhance resistance"
+      ],
+      "link": "https://www.hawaiicoffeeed.com/cercospora.html"
+    },
+    {
+      "id": "Image 3",
+      "title": "Leaf Rust",
+      "name2": "Hemileia vastatrix",
+      "thumbnail": "static/images/diseases/rust-icon.png",
+      "image": "static/images/diseases/leaf-rust.jpg",
+      "description": "Leaf rust, caused by the fungus Hemileia vastatrix, is a significant disease affecting coffee plants. It presents as yellow-orange powdery lesions on the underside of leaves, leading to premature leaf drop and reduced photosynthetic capacity, ultimately decreasing yield.",
+      "prevention": [
+        "Cultivate rust-resistant coffee varieties",
+        "Maintain proper spacing and pruning to enhance air circulation",
+        "Pruning, which increases air flow through the trees and reduces humidity.",
+        "Apply preventive fungicides during high-risk periods"
+      ],
+      "solution": [
+        "Remove and destroy infected leaves to reduce spore spread",
+        "Apply appropriate fungicides as per recommended guidelines",
+        "Maintain overall plant health to enhance resistance"
+      ],
+      "link": "https://www.britannica.com/science/coffee-rust"
+    },
+    {
+      "id": "Image 4",
+      "title": "Sooty Mold",
+      "name2": "Capnodium citri",
+      "thumbnail": "static/images/diseases/sooty-icon.png",
+      "image": "static/images/diseases/sooty-mold2.jpg",
+      "description": "Sooty mold is a black, superficial fungal growth on leaves and stems, developing on the honeydew excreted by sap-sucking insects like aphids, mealybugs, and scales. While it doesn't infect plant tissues directly, it can impede photosynthesis by blocking sunlight.",
+      "prevention": [
+        "Control populations of honeydew-producing insects through integrated pest management",
+        "Encourage natural predators and maintain plant health to reduce pest infestations"
+      ],
+      "solution": [
+        "Manage and eliminate the insect pests responsible for honeydew production",
+        "Gently wash affected plant parts with a mild soap solution to remove the mold",
+        "Prune heavily infested areas to improve air circulation and reduce humidity"
+      ],
+      "link": "https://www.hawaiicoffeeed.com/green-scale-and-sooty-mold.html"
+    }
+  ]  

@@ -1,0 +1,25 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore logs and environment files
+*.log
+.env
+
+# Ignore model weights and database files
+*.pt
+*.sqlite3
+
+# Ignore VSCode and workspace configs
+.vscode/
+*.code-workspace
+
+# Local environments and credentials
+.venv/
+.streamlit/secrets.toml
+*_credentials.json
+
+# Required checkpoints for the public demo
+!weights/cleaf.pt
+!weights/spots.pt
+!weights/yolo12n.pt
